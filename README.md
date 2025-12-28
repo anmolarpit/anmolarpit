@@ -1,32 +1,34 @@
-# Hi 👋, I'm Anmol Arpit  
+<h1 align="center">
+  Hi 👋, I'm Anmol Arpit
+</h1>
 
-🎯 Aspiring Software Engineer | Backend & Problem Solving  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Backend+%26+Problem+Solver;Learning+Every+Day&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🚀 About Me
-- 💻 I enjoy building logical, efficient programs  
-- 📚 Currently strengthening **Data Structures & Backend Development**
-- 🧠 Love learning how things work under the hood
+- 💻 Interested in **Backend Development & DSA**
+- 🧠 Comfortable with **C, Python & Java**
+- 🚀 Always learning and improving
 
 ---
 
 ## 🛠️ Languages I Know
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java&theme=light" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anmolarpit-b15383318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-⭐ *Feel free to check out my repositories and connect with me!*
+⭐ *Thanks for visiting my profile!*
