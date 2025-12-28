@@ -24,7 +24,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anmolarpit-b15383318/" target="_blank">
+  <a href="https://www.linkedin.com/in/anmol-arpit-b15383318/" target="https://www.linkedin.com/in/anmol-arpit-b15383318/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
